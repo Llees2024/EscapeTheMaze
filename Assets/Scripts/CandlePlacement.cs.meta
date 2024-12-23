@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 84624f5a49fe78340851cafe714121ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - candlePrefab: {fileID: 8769958722535363843, guid: 8bd8d6e75647b574bb81b82c3d1177f0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
